@@ -33,7 +33,7 @@ cascade:
       path: /blog/*
       kind: section
     # Set the listing view
-    view: card # date-title-summary
+    view: date-title-summary # card # date-title-summary
 
 ############################
 ## LANGUAGE
