@@ -10,17 +10,17 @@ design:
 sections:
   - block: hero
     content:
-      title: Simți că nu-ți găsești locul? Nici eu nu l-am găsit... până când am început să mă înțeleg.
+      title: Simți că nu-ți găsești locul?
       text: Coaching 1-la-1 gratuit, pentru o perioadă limitată, cu cineva care a fost acolo unde ești tu acum.
       primary_action:
         text: 📅 Programează o sesiune pe Calendly
         url: https://calendly.com/dorulian/45min
         icon: rocket-launch
       secondary_action:
-        text: 📨 Trimite-mi un mesaj 
+        text: 📨 Trimite-mi un mesaj
         url: https://docs.hugoblox.com
       announcement:
-        text: "📖 Povestea mea – "De unde am plecat""
+        text: "📖 Povestea mea – De unde am plecat"
         link:
           text: "Read more"
           url: "/blog/"
