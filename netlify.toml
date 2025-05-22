@@ -1,7 +1,7 @@
 [build]
-  base = "sine-arhitect"
+  # base = "sine-arhitect"
   publish = "public"
-  command = "npm run build"
+  command = "hugo"
 
 [build.environment]
   HUGO_VERSION = "0.136.5"
