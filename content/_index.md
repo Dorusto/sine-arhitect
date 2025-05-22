@@ -10,17 +10,17 @@ design:
 sections:
   - block: hero
     content:
-      title: Prima mea incercare de a face un site in hugo
-      text: 🧱 EASY. FREE (OPEN SOURCE). NO-CODE  🧱
+      title: Simți că nu-ți găsești locul? Nici eu nu l-am găsit... până când am început să mă înțeleg.
+      text: Coaching 1-la-1 gratuit, pentru o perioadă limitată, cu cineva care a fost acolo unde ești tu acum.
       primary_action:
-        text: Get Started
-        url: https://hugoblox.com/templates/
+        text: 📅 Programează o sesiune pe Calendly
+        url: https://calendly.com/dorulian/45min
         icon: rocket-launch
       secondary_action:
-        text: Read the docs
+        text: 📨 Trimite-mi un mesaj 
         url: https://docs.hugoblox.com
       announcement:
-        text: "Announcing the release of version 1."
+        text: "📖 Povestea mea – "De unde am plecat""
         link:
           text: "Read more"
           url: "/blog/"
