@@ -1,6 +1,8 @@
 [build]
-  command = "hugo --gc --minify -b $URL"
+  base = "sine-arhitect"
   publish = "public"
+  command = "npm run build"
+
 
 [build.environment]
   HUGO_VERSION = "0.136.5"
