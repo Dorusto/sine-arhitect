@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Creator's Landing Page | Hugo Theme # Website name
-baseURL: 'https://example.com/' # Website URL
+title: Arhitectul sinelui cu Doru # Website name
+baseURL: 'https://coaching.dorustoica.ro/' # Website URL
 
 ############################
 ## PAGE OPTIONS
@@ -33,7 +33,7 @@ cascade:
       path: /blog/*
       kind: section
     # Set the listing view
-    view: date-title-summary # card # date-title-summary
+    view: citation #card # date-title-summary
 
 ############################
 ## LANGUAGE

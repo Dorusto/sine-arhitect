@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home | Creator&#39;s Landing Page | Hugo Theme</title>
+    <title>Home | Arhitectul sinelui cu Doru</title>
     <link>http://localhost:1313/</link>
       <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <description>Home</description>
@@ -309,7 +309,7 @@
 
 
 
-&lt;div id=&#34;chart-792318465&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-293485671&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -327,7 +327,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-792318465&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-293485671&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -698,6 +698,62 @@ Parallel 4   :         des6, after des4, 1d
 &lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Do something else&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;h1 id=&#34;httpsbootstraphugobloxcomblocks-v1contactcontact-links&#34;&gt;&lt;a href=&#34;https://bootstrap.hugoblox.com/blocks-v1/contact/#contact-links&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bootstrap.hugoblox.com/blocks-v1/contact/#contact-links&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;widget: contact
+headless: true  # This file represents a page section.&lt;/p&gt;
+&lt;h1 id=&#34;put-your-section-options-here-title-background-etc-&#34;&gt;Put Your Section Options Here (title, background, etc.) &amp;hellip;&lt;/h1&gt;
+&lt;p&gt;title: Contact Me
+subtitle: &amp;rsquo;&amp;rsquo;
+weight: 10&lt;/p&gt;
+&lt;p&gt;content:&lt;/p&gt;
+&lt;h1 id=&#34;automatically-link-email-and-phone-or-display-as-text&#34;&gt;Automatically link email and phone or display as text?&lt;/h1&gt;
+&lt;p&gt;autolink: true&lt;/p&gt;
+&lt;h1 id=&#34;email-form-provider&#34;&gt;Email form provider&lt;/h1&gt;
+&lt;p&gt;form:
+provider: netlify
+formspree:
+id:
+netlify:
+# Enable CAPTCHA challenge to reduce spam?
+captcha: false&lt;/p&gt;
+&lt;h1 id=&#34;contact-details-edit-or-remove-options-as-required&#34;&gt;Contact details (edit or remove options as required)&lt;/h1&gt;
+&lt;p&gt;email: &lt;a href=&#34;mailto:test@example.org&#34;&gt;test@example.org&lt;/a&gt;
+phone: 888 888 88 88
+address:
+street: 450 Serra Mall
+city: Stanford
+region: CA
+postcode: &amp;lsquo;94305&amp;rsquo;
+country: United States
+country_code: US
+coordinates:
+latitude: &amp;lsquo;37.4275&amp;rsquo;
+longitude: &amp;lsquo;-122.1697&amp;rsquo;
+directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+office_hours:
+- &amp;lsquo;Monday 10:00 to 13:00&amp;rsquo;
+- &amp;lsquo;Wednesday 09:00 to 10:00&amp;rsquo;
+appointment_url: &amp;lsquo;&lt;a href=&#34;https://calendly.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://calendly.com&lt;/a&gt;&amp;rsquo;
+contact_links:
+- icon: twitter
+icon_pack: fab
+name: DM Me
+link: &amp;lsquo;&lt;a href=&#34;https://twitter.com/Twitter%27&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://twitter.com/Twitter&#39;&lt;/a&gt;
+- icon: video
+icon_pack: fas
+name: Zoom Me
+link: &amp;lsquo;&lt;a href=&#34;https://zoom.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://zoom.com&lt;/a&gt;&amp;rsquo;&lt;/p&gt;
+&lt;p&gt;design:&lt;/p&gt;
+&lt;h1 id=&#34;choose-how-many-columns-the-section-has-valid-values-1-or-2&#34;&gt;Choose how many columns the section has. Valid values: &amp;lsquo;1&amp;rsquo; or &amp;lsquo;2&amp;rsquo;.&lt;/h1&gt;
+&lt;p&gt;columns: &amp;lsquo;1&amp;rsquo;&lt;/p&gt;
 </description>
     </item>
     

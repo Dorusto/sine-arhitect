@@ -18,5 +18,6 @@
 
 [[plugins]]
   package = "netlify-plugin-hugo-cache-resources"
+  package = "strapi-plugin-netlify-deployments"
   [plugins.inputs]
     debug = true
