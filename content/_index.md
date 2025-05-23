@@ -11,7 +11,7 @@ sections:
   - block: hero
     content:
       title: Simți că nu-ți găsești locul?
-      text: Coaching 1-la-1 gratuit, pentru o perioadă limitată, cu cineva care a fost acolo unde ești tu acum.
+      text: Coaching 1-la-1 cu cineva care a trecut pe acolo, gratuit pentru moment.
       primary_action:
         text: 📅 Programează o sesiune pe Calendly
         url: https://calendly.com/dorulian/45min
