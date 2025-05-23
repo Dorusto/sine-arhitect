@@ -12,7 +12,7 @@ main:
   - name: Coaching
     url: /#coaching
     weight: 30
-  - name: Testimonialele
+  - name: Testimoniale
     url: /#testimoniale
     weight: 40
   - name: Hai să vorbim
