@@ -15,6 +15,6 @@ Pentru a înțelege traficul general de pe site, folosim [GoatCounter](https://w
 
 Scopul este exclusiv acela de a înțelege care pagini sunt vizitate și de unde vine traficul, pentru a putea îmbunătăți conținutul oferit.
 
-Dacă ai întrebări legate de confidențialitate, mă poți contacta la [emailul tău].
+Dacă ai întrebări legate de confidențialitate, mă poți contacta la contact@dorustoica.ro.
 
 Ultima actualizare: Mai 2025

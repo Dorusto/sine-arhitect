@@ -15,6 +15,6 @@ Prin utilizarea acestui site, ești de acord că:
 
 Toate sesiunile de coaching sunt confidențiale, în conformitate cu valorile etice ale coachingului.
 
-Pentru orice întrebare, mă poți contacta la [emailul tău].
+Pentru orice întrebare, mă poți contacta la contact@dorustoica.ro.
 
 Ultima actualizare: Mai 2025
