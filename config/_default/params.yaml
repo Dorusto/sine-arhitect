@@ -6,16 +6,16 @@
 # Appearance
 appearance:
   mode: dark
-  color: indigo
+  color: zinc
 
 # SEO
 marketing:
   seo:
     site_type: Person
-    local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo landing page theme powered by Hugo Blox website builder.'
-    twitter: 'GetResearchDev'
+    local_business_type: 'HealthAndBeautyBusiness'
+    org_name: 'Doru Iulian Stoica'
+    description: 'Coaching 1 la 1 pentru claritate, încredere și transformare personală.'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -39,13 +39,14 @@ header:
     #  filename: "logo.svg"
     button:
       enable: false
-      text: "Get Started"
-      url: "https://hugoblox.com/templates/"
+    #  text: "Get Started"
+    #  url: "https://hugoblox.com/templates/"
     show_search: false
     show_theme_chooser: true
 
 # Site footer
 footer:
+  custom: ["custom_footer"]
   copyright:
     notice: '© {year} Doru Iulian Stoica'
 

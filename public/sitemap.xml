@@ -2,6 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/privacy/</loc>
+    <lastmod>2025-05-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/terms/</loc>
+    <lastmod>2025-05-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/blog/povestea-mea/</loc>
     <lastmod>2025-05-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -20,14 +28,6 @@
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-05-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/privacy/</loc>
-    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/terms/</loc>
-    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/blog/get-started/</loc>
@@ -78,10 +78,13 @@
     <lastmod>2023-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>http://localhost:1313/temp/contact/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/temp/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
