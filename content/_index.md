@@ -124,7 +124,7 @@ sections:
           # Upload image to `assets/media/` and reference the filename here
           image: "testimonial-1.jpg"
           text: Sesiunile de coaching cu Doru au fost revelatoare. Am reușit să mă reconectez cu mine însumi și să-mi clarific direcția în viață. M-am simțit ascultat, înțeles și sprijinit la fiecare pas. Recomand din inimă!
-        - name: "Andreea, 34 ani"
+        - name: "Andrei, 34 ani"
           role: "Arhitect"
           image: "testimonial-1.jpg"
           text: Sesiunile de coaching cu Doru au fost revelatoare. Am reușit să mă reconectez cu mine însumi și să-mi clarific direcția în viață. M-am simțit ascultat, înțeles și sprijinit la fiecare pas. Recomand din inimă!
