@@ -1396,6 +1396,45 @@ Parallel 4   :         des6, after des4, 1d
   
     
       
+      <script>
+document.addEventListener('DOMContentLoaded', function() {
+    const titles = [
+        "Simți că ești străin chiar și în viața ta?",
+        "Vrei să găsești sensul și direcția?",
+        "Simți că nu aparții nicăieri?",
+        "Vrei să te redescoperi pe tine?",
+        "Simți că ești blocat în loc?"
+    ];
+
+    const titleElement = document.querySelector('.hero-title');
+    if (!titleElement) return;
+
+    let currentIndex = 0;
+
+    function updateTitle() {
+        titleElement.style.opacity = '0';
+        setTimeout(() => {
+            titleElement.textContent = titles[currentIndex];
+            titleElement.style.opacity = '1';
+            currentIndex = (currentIndex + 1) % titles.length;
+        }, 500);
+    }
+
+    
+    titleElement.style.transition = 'opacity 0.5s ease-in-out';
+
+    
+    titleElement.textContent = titles[0];
+
+    
+    setInterval(updateTitle, 10000);
+});
+</script> 
+      
+    
+  
+    
+      
       
 <script data-goatcounter="https://dorulian.goatcounter.com/count " async src="//gc.zgo.at/count.js"></script>
       

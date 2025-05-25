@@ -1,0 +1,49 @@
+<script>
+// Așteptăm să se încarce complet pagina înainte de a rula codul
+document.addEventListener('DOMContentLoaded', function() {
+    // Array-ul cu toate titlurile care vor fi afișate în rotație
+    // Poți modifica aceste titluri după cum dorești
+    const titles = [
+        "Simți că ești străin chiar și în viața ta?",
+        "Vrei să-ți găsești sensul și direcția?",
+        "Simți că nu aparții nicăieri?",
+        "Vrei să te redescoperi?",
+        "Simți că ești blocat?"
+    ];
+
+    // Căutăm elementul h1 din hero section folosind clasa text-4xl
+    const titleElement = document.querySelector('h1.text-4xl');
+    if (!titleElement) return;
+
+    // Variabilă pentru a ține evidența titlului curent din array
+    let currentIndex = 0;
+
+    // Funcția care actualizează titlul cu efect de fade
+    function updateTitle() {
+        // Facem titlul invizibil (fade out)
+        titleElement.style.opacity = '0';
+        
+        // După 500ms (0.5 secunde)
+        setTimeout(() => {
+            // Schimbăm textul cu următorul titlu din array
+            titleElement.textContent = titles[currentIndex];
+            // Facem titlul vizibil din nou (fade in)
+            titleElement.style.opacity = '1';
+            // Trecem la următorul titlu din array
+            // % titles.length ne asigură că când ajungem la sfârșitul array-ului, începem din nou de la început
+            currentIndex = (currentIndex + 1) % titles.length;
+        }, 500);
+    }
+
+    // Adăugăm tranziția CSS pentru efectul de fade
+    // Poți modifica durata (0.5s) și tipul de tranziție (ease-in-out) după preferințe
+    titleElement.style.transition = 'opacity 0.5s ease-in-out';
+
+    // Setăm titlul inițial
+    titleElement.textContent = titles[0];
+
+    // Pornim carousel-ul să ruleze la fiecare 10 secunde (10000ms)
+    // Poți modifica acest interval după preferințe
+    setInterval(updateTitle, 10000);
+});
+</script> 
