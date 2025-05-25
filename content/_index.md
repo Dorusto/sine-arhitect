@@ -70,7 +70,7 @@ sections:
             - "Experiență variată: operator, electrician, automatist"
             - "Burnoutul reprezintă începutul unei noi direcții"
           # Upload image to `assets/media/` and reference the filename here
-          image: copil.jpg
+          image: copil.png
           button:
             text: 📅 Programează-te
             url: https://calendly.com/dorulian/45min
@@ -82,7 +82,7 @@ sections:
             - "Transformarea vulnerabilităților în putere"
             - "Ghidare pentru alții aflați în căutare"
           # Upload image to `assets/media/` and reference the filename here
-          image: adult.jpg
+          image: adult.png
           button:
             text: 📅 Programează-te
             url: https://calendly.com/dorulian/45min
