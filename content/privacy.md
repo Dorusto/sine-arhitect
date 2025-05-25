@@ -6,14 +6,15 @@ share: false
 
 ## Politica de Confidențialitate
 
-Acest site nu colectează date personale identificabile și nu folosește cookie-uri.
+Acest site folosește Google Analytics pentru a înțelege traficul general și comportamentul vizitatorilor. Google Analytics folosește cookie-uri pentru a colecta informații anonime despre:
+- Paginile vizitate
+- Timpul petrecut pe site
+- Sursa traficului
+- Dispozitivul și browserul folosit
 
-Pentru a înțelege traficul general de pe site, folosim [GoatCounter](https://www.goatcounter.com/), un serviciu de analiză care:
-- Nu folosește cookie-uri
-- Nu colectează date personale
-- Nu stochează adrese IP sau informații care pot identifica vizitatorii
+Aceste date sunt procesate de Google în conformitate cu [Politica de Confidențialitate Google](https://policies.google.com/privacy).
 
-Scopul este exclusiv acela de a înțelege care pagini sunt vizitate și de unde vine traficul, pentru a putea îmbunătăți conținutul oferit.
+Poți dezactiva cookie-urile Google Analytics în browserul tău sau folosind [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout).
 
 Dacă ai întrebări legate de confidențialitate, mă poți contacta la contact@dorustoica.ro.
 

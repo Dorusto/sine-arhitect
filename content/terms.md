@@ -6,12 +6,13 @@ share: false
 
 ## Termeni și Condiții
 
-Acest site este oferit în scop informativ și personal. Nu oferă garanții și nu își asumă responsabilitatea pentru deciziile luate de utilizatori în urma conținutului prezentat.
+Acest site prezintă serviciile mele de coaching și oferă informații despre acestea. Nu îmi asum responsabilitatea pentru deciziile luate de clienți în urma sesiunilor de coaching, deoarece acestea rămân în responsabilitatea fiecărui client.
 
 Prin utilizarea acestui site, ești de acord că:
-- Nu colectăm date personale
-- Nu vindem informații
-- Nu folosim cookie-uri
+- Folosim Google Analytics pentru a înțelege traficul și comportamentul vizitatorilor
+- Colectăm date anonime despre utilizarea site-ului
+- Folosim cookie-uri pentru analiză
+- Nu vindem informații personale
 
 Toate sesiunile de coaching sunt confidențiale, în conformitate cu valorile etice ale coachingului.
 

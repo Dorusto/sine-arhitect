@@ -18,15 +18,16 @@
       <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/privacy/</guid>
       <description>&lt;h2 id=&#34;politica-de-confidențialitate&#34;&gt;Politica de Confidențialitate&lt;/h2&gt;
-&lt;p&gt;Acest site nu colectează date personale identificabile și nu folosește cookie-uri.&lt;/p&gt;
-&lt;p&gt;Pentru a înțelege traficul general de pe site, folosim &lt;a href=&#34;https://www.goatcounter.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GoatCounter&lt;/a&gt;, un serviciu de analiză care:&lt;/p&gt;
+&lt;p&gt;Acest site folosește Google Analytics pentru a înțelege traficul general și comportamentul vizitatorilor. Google Analytics folosește cookie-uri pentru a colecta informații anonime despre:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Nu folosește cookie-uri&lt;/li&gt;
-&lt;li&gt;Nu colectează date personale&lt;/li&gt;
-&lt;li&gt;Nu stochează adrese IP sau informații care pot identifica vizitatorii&lt;/li&gt;
+&lt;li&gt;Paginile vizitate&lt;/li&gt;
+&lt;li&gt;Timpul petrecut pe site&lt;/li&gt;
+&lt;li&gt;Sursa traficului&lt;/li&gt;
+&lt;li&gt;Dispozitivul și browserul folosit&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Scopul este exclusiv acela de a înțelege care pagini sunt vizitate și de unde vine traficul, pentru a putea îmbunătăți conținutul oferit.&lt;/p&gt;
-&lt;p&gt;Dacă ai întrebări legate de confidențialitate, mă poți contacta la [emailul tău].&lt;/p&gt;
+&lt;p&gt;Aceste date sunt procesate de Google în conformitate cu &lt;a href=&#34;https://policies.google.com/privacy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Politica de Confidențialitate Google&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Poți dezactiva cookie-urile Google Analytics în browserul tău sau folosind &lt;a href=&#34;https://tools.google.com/dlpage/gaoptout&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics Opt-out Browser Add-on&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Dacă ai întrebări legate de confidențialitate, mă poți contacta la &lt;a href=&#34;mailto:contact@dorustoica.ro&#34;&gt;contact@dorustoica.ro&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Ultima actualizare: Mai 2025&lt;/p&gt;
 </description>
     </item>
@@ -37,15 +38,16 @@
       <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/terms/</guid>
       <description>&lt;h2 id=&#34;termeni-și-condiții&#34;&gt;Termeni și Condiții&lt;/h2&gt;
-&lt;p&gt;Acest site este oferit în scop informativ și personal. Nu oferă garanții și nu își asumă responsabilitatea pentru deciziile luate de utilizatori în urma conținutului prezentat.&lt;/p&gt;
+&lt;p&gt;Acest site prezintă serviciile mele de coaching și oferă informații despre acestea. Nu îmi asum responsabilitatea pentru deciziile luate de clienți în urma sesiunilor de coaching, deoarece acestea rămân în responsabilitatea fiecărui client.&lt;/p&gt;
 &lt;p&gt;Prin utilizarea acestui site, ești de acord că:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Nu colectăm date personale&lt;/li&gt;
-&lt;li&gt;Nu vindem informații&lt;/li&gt;
-&lt;li&gt;Nu folosim cookie-uri&lt;/li&gt;
+&lt;li&gt;Folosim Google Analytics pentru a înțelege traficul și comportamentul vizitatorilor&lt;/li&gt;
+&lt;li&gt;Colectăm date anonime despre utilizarea site-ului&lt;/li&gt;
+&lt;li&gt;Folosim cookie-uri pentru analiză&lt;/li&gt;
+&lt;li&gt;Nu vindem informații personale&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Toate sesiunile de coaching sunt confidențiale, în conformitate cu valorile etice ale coachingului.&lt;/p&gt;
-&lt;p&gt;Pentru orice întrebare, mă poți contacta la [emailul tău].&lt;/p&gt;
+&lt;p&gt;Pentru orice întrebare, mă poți contacta la &lt;a href=&#34;mailto:contact@dorustoica.ro&#34;&gt;contact@dorustoica.ro&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Ultima actualizare: Mai 2025&lt;/p&gt;
 </description>
     </item>
@@ -137,7 +139,7 @@
     &lt;/li&gt;
     &lt;li&gt;&lt;a href=&#34;#crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/a&gt;
       &lt;ul&gt;
-        &lt;li&gt;&lt;a href=&#34;#-click-here-to-become-a-sponsor-and-help-support-hugo-bloxs-future-httpshugobloxcomsponsor&#34;&gt;&lt;a href=&#34;https://hugoblox.com/sponsor/&#34;&gt;❤️ Click here to become a sponsor and help support Hugo Blox&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#-click-here-to-become-a-sponsor-and-help-support-hugo-blox&#34;&gt;&lt;a href=&#34;https://hugoblox.com/sponsor/&#34;&gt;❤️ Click here to become a sponsor and help support Hugo Blox&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;
       &lt;/ul&gt;
     &lt;/li&gt;
     &lt;li&gt;&lt;a href=&#34;#ecosystem&#34;&gt;Ecosystem&lt;/a&gt;&lt;/li&gt;
@@ -167,7 +169,7 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/h2&gt;
 &lt;p&gt;To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p&gt;
-&lt;h3 id=&#34;-click-here-to-become-a-sponsor-and-help-support-hugo-bloxs-future-httpshugobloxcomsponsor&#34;&gt;&lt;a href=&#34;https://hugoblox.com/sponsor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;❤️ Click here to become a sponsor and help support Hugo Blox&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;-click-here-to-become-a-sponsor-and-help-support-hugo-blox&#34;&gt;&lt;a href=&#34;https://hugoblox.com/sponsor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;❤️ Click here to become a sponsor and help support Hugo Blox&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;As a token of appreciation for sponsoring, you can &lt;strong&gt;unlock &lt;a href=&#34;https://hugoblox.com/sponsor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;these&lt;/a&gt; awesome rewards and extra features 🦄✨&lt;/strong&gt;&lt;/p&gt;
 &lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
 &lt;ul&gt;
@@ -329,7 +331,7 @@
 
 
 
-&lt;div id=&#34;chart-231678954&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-835467129&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -347,7 +349,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-231678954&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-835467129&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -535,7 +537,7 @@ Crash --&gt; [*]
 &lt;h2 id=&#34;video&#34;&gt;Video&lt;/h2&gt;
 &lt;p&gt;Teach your course by sharing videos with your students. Choose from one of the following approaches:&lt;/p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/D2vj0WcvH5c?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/D2vj0WcvH5c?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
 
 &lt;p&gt;&lt;strong&gt;Youtube&lt;/strong&gt;:&lt;/p&gt;
@@ -726,7 +728,7 @@ Parallel 4   :         des6, after des4, 1d
       <link>http://localhost:1313/temp/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/temp/contact/</guid>
-      <description>&lt;h1 id=&#34;httpsbootstraphugobloxcomblocks-v1contactcontact-links&#34;&gt;&lt;a href=&#34;https://bootstrap.hugoblox.com/blocks-v1/contact/#contact-links&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bootstrap.hugoblox.com/blocks-v1/contact/#contact-links&lt;/a&gt;&lt;/h1&gt;
+      <description>&lt;h1&gt;&lt;a href=&#34;https://bootstrap.hugoblox.com/blocks-v1/contact/#contact-links&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bootstrap.hugoblox.com/blocks-v1/contact/#contact-links&lt;/a&gt;&lt;/h1&gt;
 &lt;p&gt;widget: contact
 headless: true  # This file represents a page section.&lt;/p&gt;
 &lt;h1 id=&#34;put-your-section-options-here-title-background-etc-&#34;&gt;Put Your Section Options Here (title, background, etc.) &amp;hellip;&lt;/h1&gt;
