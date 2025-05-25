@@ -66,11 +66,22 @@ Ofer sesiuni de coaching individuale, în care scopul principal este să te ajut
 
 ## Valorile mele
 
-- 🧭 Sinceritate  
-- 🫱 Respect  
-- ⚖️ Egalitate  
-- ❤️ Empatie  
-- 🔍 Adevăr  
+Aceste valori nu sunt doar cuvinte pentru mine - ele ghidează fiecare interacțiune și fiecare sesiune de coaching. Ele reprezintă fundația pe care construim împreună relația de încredere necesară pentru o transformare autentică.
+
+### 🧭 Sinceritate
+Cred în comunicarea deschisă și transparentă. În coaching, sinceritatea este cheia pentru a crea un spațiu sigur unde poți fi tu însuți, fără judecăți.
+
+### 🫱 Respect
+Respectul pentru timpul tău, pentru experiențele tale și pentru drumul tău unic este fundamental. Fiecare persoană are propria poveste și propriul ritm de dezvoltare.
+
+### ⚖️ Egalitate
+În coaching, suntem parteneri în călătoria ta. Nu există ierarhii - suntem doi oameni care lucrează împreună pentru a-ți atinge obiectivele.
+
+### ❤️ Empatie
+Înțelegerea profundă a experiențelor tale și a emoțiilor tale este esențială. Sunt aici să te ascult și să te susțin, fără să judec.
+
+### 🔍 Adevăr
+Căutăm împreună adevărul tău interior. Uneori, acest proces poate fi incomod, dar este necesar pentru creștere și transformare autentică.
 
 ---
 

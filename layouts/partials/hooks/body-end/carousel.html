@@ -4,10 +4,11 @@ document.addEventListener('DOMContentLoaded', function() {
     // Array-ul cu toate titlurile care vor fi afișate în rotație
     // Poți modifica aceste titluri după cum dorești
     const titles = [
-        "Vrei să-ți găsești sensul și direcția?",
-        "Simți că nu aparții nicăieri?",
-        "Vrei să te redescoperi?",
-        "Simți că ești blocat?"
+        "Cauți să găsești sensul și direcția în viață?",
+        "Simți că nu-ți găsețti locul?",
+        "Cauți să te redescoperi?",
+        "Simți că ești blocat?",
+        "Simți că ești străin chiar și în viața ta?"
     ];
 
     // Căutăm elementul h1 din hero section folosind clasa text-4xl
@@ -37,9 +38,6 @@ document.addEventListener('DOMContentLoaded', function() {
     // Adăugăm tranziția CSS pentru efectul de fade
     // Poți modifica durata (0.5s) și tipul de tranziție (ease-in-out) după preferințe
     titleElement.style.transition = 'opacity 0.5s ease-in-out';
-
-    // Setăm titlul inițial
-    titleElement.textContent = titles[0];
 
     // Pornim carousel-ul să ruleze la fiecare 10 secunde (10000ms)
     // Poți modifica acest interval după preferințe

@@ -11,9 +11,9 @@ sections:
   - block: hero
     content:
       title: Simți că ești străin chiar și în viața ta?
-      text: Coaching 1-la-1 gratuit, cu cineva care a simțit asta… și a învățat să se regăsească.
+      text: Coaching 1-la-1, cu cineva care a simțit asta… și a învățat să se regăsească.
       primary_action:
-        text: 📅 Programează o sesiune pe Calendly
+        text: 📅 Programează o sesiune
         url: https://calendly.com/dorulian/45min
         icon: rocket-launch
       #secondary_action:
@@ -72,7 +72,7 @@ sections:
           # Upload image to `assets/media/` and reference the filename here
           image: copil.png
           button:
-            text: 📅 Programează-te
+            text: 📅 Programează o sesiune
             url: https://calendly.com/dorulian/45min
         - title: 🌱 Unde sunt acum
           text: Gândul că nu știam ce vreau de la viață mă paraliza. Simțeam că timpul trece și eu nu aparțin nicăieri. Eram tot timpul trist, mimam că e ok, dar nu era. Am ajuns să amân somnul doar ca să evit o nouă zi. Nu găseam sens în nimic. Dar apoi… am început să caut. Să mă ascult. Să înțeleg. Astăzi, nu sunt perfect și nici nu vreau să fiu. Însă știu cine sunt, ce vreau, ce merit. Am învățat să-mi accept vulnerabilitățile și să le transform în puncte de sprijin. Am înțeles că nu sunt singurul și, mai ales, că nici tu nu ești.
@@ -84,7 +84,7 @@ sections:
           # Upload image to `assets/media/` and reference the filename here
           image: adult.png
           button:
-            text: 📅 Programează-te
+            text: 📅 Programează o sesiune
             url: https://calendly.com/dorulian/45min
     design:
       # Section background color (CSS class)
@@ -93,7 +93,12 @@ sections:
     id: coaching
     content:
       title: Coaching 1 la 1
-      text: ""
+      text: "Uneori, tot ce avem nevoie este un spațiu sigur în care să fim ascultați cu adevărat.  
+      Coachingul 1 la 1 este o conversație profundă, ghidată cu empatie și claritate, în care tu ești în centrul atenției.  
+      Împreună, lucrăm pentru a înțelege ce te ține pe loc, pentru a descoperi ce îți dorești cu adevărat și pentru a crea pași concreți spre o versiune mai autentică și împlinită a ta."
+      button:
+        text: 📅 Programează o sesiune
+        url: https://calendly.com/dorulian/45min
       items:
         - name: Înțelegerea frământărilor
           icon: question-mark-circle
@@ -113,6 +118,32 @@ sections:
         - name: Suport continuu
           icon: user-group
           description: Îți ofer sprijin constant pe parcursul procesului de transformare personală.
+  - block: features
+    id: valori
+    content:
+      title: Valorile mele
+      text: Aceste valori nu sunt doar cuvinte pentru mine - ele ghidează fiecare interacțiune și fiecare sesiune de coaching. Ele reprezintă fundația pe care construim împreună relația de încredere necesară pentru o transformare autentică.
+      items:
+        - name: Sinceritate
+          icon: chat-bubble-left-right
+          description: Creăm împreună un spațiu sigur unde poți fi tu însuți, fără mască și fără judecăți. Fiecare cuvânt contează și fiecare emoție este validă. 
+        - name: Respect
+          icon: users
+          description: Fiecare persoană are propria poveste și propriul ritm. Respect timpul tău, experiențele tale și drumul tău unic, fără a încerca să-l accelerez  sau să-l schimb.
+        - name: Egalitate
+          icon: scale
+          description: Voi fi partenerul tău în călătoria ta. Lucrez împreună cu tine pentru a descoperi problema dar și soluția cea mai bună pentru tine.
+        - name: Empatie
+          icon: heart
+          description: Înțelegerea profundă a experiențelor tale și a emoțiilor tale este esențială. Sunt aici să te ascult și să te susțin, fără să judec.
+        - name: Adevăr
+          icon: magnifying-glass
+          description: Căutăm împreună adevărul tău interior. Uneori, acest proces poate fi incomod, dar este necesar pentru creștere și transformarea ta autentică.
+        - name: Autenticitate
+          icon: sparkles
+          description: Cred în puterea de a fi tu însuți, fără mască și fără compromisuri. În coaching, autenticitatea este cheia pentru o transformare durabilă și împlinitoare.
+    design:
+      css_class: "bg-gray-100 dark:bg-gray-900"
   - block: testimonials
     id: testimoniale
     content:
@@ -129,7 +160,7 @@ sections:
           image: "testimonial-1.jpg"
           text: Sesiunile de coaching cu Doru au fost revelatoare. Am reușit să mă reconectez cu mine însumi și să-mi clarific direcția în viață. M-am simțit ascultat, înțeles și sprijinit la fiecare pas. Recomand din inimă!
     design:
-      css_class: "bg-gray-100 dark:bg-gray-900"
+      # css_class: "bg-gray-100 dark:bg-gray-900"
       spacing:
         # Reduce bottom spacing so the testimonial appears vertically centered between sections
         padding: ["6rem", 0, 0, 0]
@@ -145,5 +176,5 @@ sections:
       card:
         # Card background color (CSS class)
         css_class: "bg-gray-800"
-        css_style: ""
+        css_style: "bg-gray-100 dark:bg-gray-900"
 ---

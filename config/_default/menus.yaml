@@ -12,12 +12,15 @@ main:
   - name: Coaching
     url: /#coaching
     weight: 30
+  - name: Valori
+    url: /#valori
+    weight: 35
   - name: Testimoniale
     url: /#testimoniale
     weight: 40
-  - name: Hai să vorbim
-    url: /#cta
-    weight: 50
+  #- name: Hai să vorbim
+  #  url: /#cta
+  #  weight: 50
   - name: Donează
     url: https://revolut.me/doruoa2a
     weight: 60

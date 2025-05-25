@@ -39,9 +39,9 @@
 &lt;p&gt;Acest site prezintă serviciile mele de coaching și oferă informații despre acestea. Nu îmi asum responsabilitatea pentru deciziile luate de clienți în urma sesiunilor de coaching, deoarece acestea rămân în responsabilitatea fiecărui client.&lt;/p&gt;
 &lt;p&gt;Prin utilizarea acestui site, ești de acord că:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Folosim Google Analytics pentru a înțelege traficul și comportamentul vizitatorilor&lt;/li&gt;
-&lt;li&gt;Colectăm date anonime despre utilizarea site-ului&lt;/li&gt;
-&lt;li&gt;Folosim cookie-uri pentru analiză&lt;/li&gt;
+&lt;li&gt;Folosim GoatCounter pentru a înțelege traficul și comportamentul vizitatorilor&lt;/li&gt;
+&lt;li&gt;Colectăm doar informații de bază despre vizitatori (paginile accesate, sursa traficului, informații tehnice de bază)&lt;/li&gt;
+&lt;li&gt;Nu folosim cookie-uri&lt;/li&gt;
 &lt;li&gt;Nu vindem informații personale&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Toate sesiunile de coaching sunt confidențiale, în conformitate cu valorile etice ale coachingului.&lt;/p&gt;
@@ -91,13 +91,17 @@
 💬 &lt;strong&gt;Donațiile sunt binevenite&lt;/strong&gt;, dacă simți că discuțiile noastre ți-au fost de ajutor.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;valorile-mele&#34;&gt;Valorile mele&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;🧭 Sinceritate&lt;/li&gt;
-&lt;li&gt;🫱 Respect&lt;/li&gt;
-&lt;li&gt;⚖️ Egalitate&lt;/li&gt;
-&lt;li&gt;❤️ Empatie&lt;/li&gt;
-&lt;li&gt;🔍 Adevăr&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Aceste valori nu sunt doar cuvinte pentru mine - ele ghidează fiecare interacțiune și fiecare sesiune de coaching. Ele reprezintă fundația pe care construim împreună relația de încredere necesară pentru o transformare autentică.&lt;/p&gt;
+&lt;h3 id=&#34;-sinceritate&#34;&gt;🧭 Sinceritate&lt;/h3&gt;
+&lt;p&gt;Cred în comunicarea deschisă și transparentă. În coaching, sinceritatea este cheia pentru a crea un spațiu sigur unde poți fi tu însuți, fără judecăți.&lt;/p&gt;
+&lt;h3 id=&#34;-respect&#34;&gt;🫱 Respect&lt;/h3&gt;
+&lt;p&gt;Respectul pentru timpul tău, pentru experiențele tale și pentru drumul tău unic este fundamental. Fiecare persoană are propria poveste și propriul ritm de dezvoltare.&lt;/p&gt;
+&lt;h3 id=&#34;-egalitate&#34;&gt;⚖️ Egalitate&lt;/h3&gt;
+&lt;p&gt;În coaching, suntem parteneri în călătoria ta. Nu există ierarhii - suntem doi oameni care lucrează împreună pentru a-ți atinge obiectivele.&lt;/p&gt;
+&lt;h3 id=&#34;-empatie&#34;&gt;❤️ Empatie&lt;/h3&gt;
+&lt;p&gt;Înțelegerea profundă a experiențelor tale și a emoțiilor tale este esențială. Sunt aici să te ascult și să te susțin, fără să judec.&lt;/p&gt;
+&lt;h3 id=&#34;-adevăr&#34;&gt;🔍 Adevăr&lt;/h3&gt;
+&lt;p&gt;Căutăm împreună adevărul tău interior. Uneori, acest proces poate fi incomod, dar este necesar pentru creștere și transformare autentică.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;hai-să-vorbim&#34;&gt;Hai să vorbim!&lt;/h2&gt;
 &lt;p&gt;📅 &lt;strong&gt;Programează o sesiune&lt;/strong&gt;&lt;br&gt;
@@ -329,7 +333,7 @@
 
 
 
-&lt;div id=&#34;chart-629843571&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-542713689&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -347,7 +351,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-629843571&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-542713689&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
