@@ -897,7 +897,7 @@
 
 
 
-<div id="chart-187452396" class="chart"></div>
+<div id="chart-734589126" class="chart"></div>
 <script>
   async function fetchChartJSON() {
     console.debug('Hugo Blox fetching chart JSON...')
@@ -915,7 +915,7 @@
 
       fetchChartJSON().then(chart => {
         console.debug('Plotting chart...')
-        window.Plotly.newPlot('chart-187452396', chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot('chart-734589126', chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -1470,6 +1470,21 @@ Crash --> [*]
 
 
 
+  
+    
+      
+      
+<footer class="bg-zinc-900 text-zinc-300 py-8">
+  <div class="container mx-auto px-4">
+    <div class="text-center">
+      <p class="text-sm">© 2025 Doru Iulian Stoica</p>
+    </div>
+  </div>
+</footer> 
+      
+    
+  
+
 
 
 
@@ -1545,35 +1560,49 @@ Crash --> [*]
     
       
       <script>
+
 document.addEventListener('DOMContentLoaded', function() {
+    
+    
     const titles = [
-        "Simți că ești străin chiar și în viața ta?",
-        "Vrei să găsești sensul și direcția?",
+        "Vrei să-ți găsești sensul și direcția?",
         "Simți că nu aparții nicăieri?",
-        "Vrei să te redescoperi pe tine?",
-        "Simți că ești blocat în loc?"
+        "Vrei să te redescoperi?",
+        "Simți că ești blocat?"
     ];
 
-    const titleElement = document.querySelector('.hero-title');
+    
+    const titleElement = document.querySelector('h1.text-4xl');
     if (!titleElement) return;
 
+    
     let currentIndex = 0;
 
+    
     function updateTitle() {
+        
         titleElement.style.opacity = '0';
+        
+        
         setTimeout(() => {
+            
             titleElement.textContent = titles[currentIndex];
+            
             titleElement.style.opacity = '1';
+            
+            
             currentIndex = (currentIndex + 1) % titles.length;
         }, 500);
     }
 
+    
     
     titleElement.style.transition = 'opacity 0.5s ease-in-out';
 
     
     titleElement.textContent = titles[0];
 
+    
     
     setInterval(updateTitle, 10000);
 });
