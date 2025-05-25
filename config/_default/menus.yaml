@@ -18,6 +18,9 @@ main:
   - name: Hai să vorbim
     url: /#cta
     weight: 50
+  - name: Donează
+    url: https://revolut.me/doruoa2a
+    weight: 60
   #- name: Resources
   #  weight: 40
   #  hasChildren: true

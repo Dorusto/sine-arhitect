@@ -5,8 +5,8 @@
 
 # Appearance
 appearance:
-  mode: dark
-  color: zinc
+  mode: system # dark, light, system
+  color: zinc # blue, cyan, green, indigo, purple, red, rose, sky, teal, and zinc.
 
 # SEO
 marketing:
@@ -33,14 +33,14 @@ header:
     blox: "navbar"
     align: "center"
     fixed_to_top: true
-    #logo:
-    #  text: ""
+    logo:
+      text: "Sine arhitect"
       # Logo filename in `assets/media/` folder
     #  filename: "logo.svg"
     button:
-      enable: false
-    #  text: "Get Started"
-    #  url: "https://hugoblox.com/templates/"
+      enable: true
+      text: "Programează o sesiune"
+      url: "https://calendly.com/dorulian/45min?month=2025-05" #https://revolut.me/doruoa2a
     show_search: false
     show_theme_chooser: true
 

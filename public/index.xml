@@ -18,15 +18,13 @@
       <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/privacy/</guid>
       <description>&lt;h2 id=&#34;politica-de-confidențialitate&#34;&gt;Politica de Confidențialitate&lt;/h2&gt;
-&lt;p&gt;Acest site folosește Google Analytics pentru a înțelege traficul general și comportamentul vizitatorilor. Google Analytics folosește cookie-uri pentru a colecta informații anonime despre:&lt;/p&gt;
+&lt;p&gt;Acest site folosește GoatCounter pentru analiză statistică. GoatCounter este un serviciu de analiză web care respectă confidențialitatea și nu folosește cookie-uri. Colectează doar informații de bază despre vizitatori, cum ar fi:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Paginile vizitate&lt;/li&gt;
-&lt;li&gt;Timpul petrecut pe site&lt;/li&gt;
-&lt;li&gt;Sursa traficului&lt;/li&gt;
-&lt;li&gt;Dispozitivul și browserul folosit&lt;/li&gt;
+&lt;li&gt;Paginile accesate&lt;/li&gt;
+&lt;li&gt;Referrer (sursa traficului)&lt;/li&gt;
+&lt;li&gt;Informații tehnice de bază (browser, sistem de operare)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Aceste date sunt procesate de Google în conformitate cu &lt;a href=&#34;https://policies.google.com/privacy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Politica de Confidențialitate Google&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Poți dezactiva cookie-urile Google Analytics în browserul tău sau folosind &lt;a href=&#34;https://tools.google.com/dlpage/gaoptout&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics Opt-out Browser Add-on&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Poți afla mai multe despre cum GoatCounter protejează confidențialitatea în &lt;a href=&#34;https://www.goatcounter.com/help/privacy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;documentația lor&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Dacă ai întrebări legate de confidențialitate, mă poți contacta la &lt;a href=&#34;mailto:contact@dorustoica.ro&#34;&gt;contact@dorustoica.ro&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Ultima actualizare: Mai 2025&lt;/p&gt;
 </description>
@@ -331,7 +329,7 @@
 
 
 
-&lt;div id=&#34;chart-734589126&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-294681573&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -349,7 +347,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-734589126&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-294681573&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
