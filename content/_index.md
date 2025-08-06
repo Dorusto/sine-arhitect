@@ -150,15 +150,11 @@ sections:
       title: ""
       text: ""
       items:
-        - name: "Andreea, 34 ani"
+        - name: "Raluca, 42 ani"
           role: "Project manager"
           # Upload image to `assets/media/` and reference the filename here
-          image: "testimonial-1.jpg"
-          text: Sesiunile de coaching cu Doru au fost revelatoare. Am reușit să mă reconectez cu mine însumi și să-mi clarific direcția în viață. M-am simțit ascultat, înțeles și sprijinit la fiecare pas. Recomand din inimă!
-        - name: "Andrei, 34 ani"
-          role: "Arhitect"
-          image: "testimonial-1.jpg"
-          text: Sesiunile de coaching cu Doru au fost revelatoare. Am reușit să mă reconectez cu mine însumi și să-mi clarific direcția în viață. M-am simțit ascultat, înțeles și sprijinit la fiecare pas. Recomand din inimă!
+          image: "testimonial-raluca.png"
+          text: 'Am facut Pana acum 3 sedinte cu Doru si nu ma asteptam ca atatea lucruri sa fie deblocate si sa progreseze intr-un timp atat de scurt. In primele doua sedinte, datorita intrebarilor si ghidajului lui Doru am reusit sa identific frici, cauza profunda a lor, cum se transformau ele in blocaje si ce instrumente as putea sa folosesc care sa ma ajute sa le depasesc. Este si un efort individual pe care trebuie sa-l depuneti sa va faceti temele dintre sedinte pentru a putea sa va atingeti scopul.A treia sedinta a fost ca un check in de progres si stare, care si asta a ajutat fenomenal pentru ca ma simteam blocata si anxioasa ca aveam multe de facut, acum ca aveam conturat clar planul. Asa ca Doru m-a ghidat sa scriu si desi am fost sceptica ca va functiona,  am pus gandurile pe hartie si brusc am realizat ca nu ma mai coplesesc  si devin manageriabile. Il recomand cu toata deschiderea, eu fiind inainte omul care nu credeam ca cineva din exterior ma poate ajuta atat de mult sa imi pun ordine in idei, sa depasesc blocaje si sa capat o viziune clara pentru ce vreau sa fac. La mine subiectul a fost unul greu: sa renunt la o viata stabila pentru una cu o mie de incertitudini, in care sa ma plimb prin lume cu un proiect de cercetare culinara. Vreti sa faceti schimbari majore in viata voastra - apelati la Dorul!'
     design:
       # css_class: "bg-gray-100 dark:bg-gray-900"
       spacing:
